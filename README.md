@@ -2,7 +2,8 @@
 
 Data source: https://www.kaggle.com/mathchi/diabetes-data-set
 
-Project can be seen in my Jupyter Notebook file
+Project can be seen in my [Jupyter Notebook file](https://github.com/SpringChhom/DA_Project4_Diabetes_Classification_Model/blob/main/SpringChhom_DataAnalytics_Project4_Diabetes_Classification_Model.ipynb)  
+
 The Dataset:
 The Akimel O'otham, formerly known as the Pima, are an indengeous tribe living in Arizona along the Gila River. Although the incidence rate of type 2 diabetes has been found to be high amongst North American indegenous populations, the Akimel O'otham have had the highest rates in the world since the 1960s as well as earlier onset of the disease than the general population. The National Institute of Diabetes and Digestive and Kidney Diseases has conducted extensive research on diabetes in this community since 1965. Part of that reseach has included medical data collected on Akimel O'otham females over 21 years of age in order to study possible indicators of diabetes and then predict future onset of type 2 diabetes.
 
