@@ -1,4 +1,4 @@
-# Data Analytics - Diabetes Predictions - Classification Model
+# Data Analytics - Diabetes Prediction - Classification Model
 
 Data source: https://www.kaggle.com/mathchi/diabetes-data-set
 
